@@ -6,7 +6,8 @@ I'm Miles, but I also go by Mylah. I'm a Student Developer based in the U.S., ma
 I love learning new things and trying them out; if it's a challenge, that's even better!
 
 Tools I use: 
-https://cdn.simpleicons.org/javascript
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+<br />
 <!--
 **miles-ph9/miles-ph9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
